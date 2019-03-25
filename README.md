@@ -8,7 +8,7 @@ Copy the .csv and .jar to your Slay the spire "mod" folder inside the installati
 Launch the game "with mods" from steam and check the mod to activate it.
 
 # Usage
-Fill in the ratings according to your liking (hopelfully the defaults will get better with time). Here are the parameters currently used:  
+Fill in the ratings according to your liking (hopefully the defaults will get better with time). Here are the parameters currently used:  
 
 * D1 (damage, single target) : Integer in range [0,10]
 * Dx (damage, area of effect) : Integer in range [0,10]

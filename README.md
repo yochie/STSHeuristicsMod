@@ -21,3 +21,6 @@ Fill in the ratings according to your liking (hopefully the defaults will get be
 # Development
 Currently uses console as interface instead of in-game gui elements. That should be fixed.
 Support should be added for similar behaviour upon entering shops.
+
+# Credits
+Idea for the mod came from joinrbs tutorial for playing using heuristics.

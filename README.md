@@ -8,7 +8,7 @@ Copy the .csv and .jar to your Slay the spire "mod" folder inside the installati
 Launch the game "with mods" from steam and check the mod to activate it.
 
 # Usage
-Fill in the ratings according to your liking (hopelfully the defaults will get better with time). Here are the parameters currently used:  
+Fill in the ratings according to your liking (hopefully the defaults will get better with time). Here are the parameters currently used:  
 
 * D1 (damage, single target) : Integer in range [0,10]
 * Dx (damage, area of effect) : Integer in range [0,10]
@@ -21,3 +21,6 @@ Fill in the ratings according to your liking (hopelfully the defaults will get b
 # Development
 Currently uses console as interface instead of in-game gui elements. That should be fixed.
 Support should be added for similar behaviour upon entering shops.
+
+# Credits
+Idea for the mod came from joinrbs tutorial for playing using heuristics.

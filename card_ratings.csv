@@ -1,0 +1,273 @@
+card_name,D1,Dx,DS,M1,Mx,MS,$
+Strike_R,3,2,1,0,0,0,0
+Defend_R,3,2,1,0,0,0,0
+Anger,8,4,2,0,0,1,43
+Armaments,5,5,5,5,5,5,58
+Body Slam,5,5,5,5,5,5,46
+Clash,5,5,5,5,5,5,-81
+Cleave,5,5,5,5,5,5,-28
+Clothesline,5,5,5,5,5,5,58
+Dual Wield,5,5,5,5,5,5,46
+Flex,5,5,5,5,5,5,-26
+Ghostly Armor,5,5,5,5,5,5,126
+Havoc,5,5,5,5,5,5,47
+Headbutt,5,5,5,5,5,5,47
+Heavy Blade,5,5,5,5,5,5,46
+Iron Wave,5,5,5,5,5,5,38
+Perfected Strike,5,5,5,5,5,5,-37
+Pommel Strike,5,5,5,5,5,5,64
+Shrug It Off,5,5,5,5,5,5,145
+Sword Boomerang,5,5,5,5,5,5,38
+Thunderclap,5,5,5,5,5,5,-4
+True Grit,5,5,5,5,5,5,93
+Twin Strike,5,5,5,5,5,5,-2
+Warcry,5,5,5,5,5,5,42
+Wild Strike,5,5,5,5,5,5,-11
+Battle Trance,5,5,5,5,5,5,195
+Blood for Blood,5,5,5,5,5,5,15
+Bloodletting,5,5,5,5,5,5,-13
+Burning Pact,5,5,5,5,5,5,61
+Carnage,5,5,5,5,5,5,84
+Combust,5,5,5,5,5,5,-30
+Corruption,5,5,5,5,5,5,100
+Disarm,5,5,5,5,5,5,180
+Dropkick,5,5,5,5,5,5,25
+Entrench,5,5,5,5,5,5,47
+Evolve,5,5,5,5,5,5,59
+Feel No Pain,5,5,5,5,5,5,116
+Fire Breathing,5,5,5,5,5,5,-42
+Flame Barrier,5,5,5,5,5,5,201
+Hemokinesis,5,5,5,5,5,5,-25
+Infernal Blade,5,5,5,5,5,5,16
+Inflame,5,5,5,5,5,5,155
+Intimidate,5,5,5,5,5,5,37
+Metallicize,5,5,5,5,5,5,160
+Power Through,5,5,5,5,5,5,61
+Pummel,5,5,5,5,5,5,71
+Rage,5,5,5,5,5,5,-2
+Rampage,5,5,5,5,5,5,1
+Reckless Charge,5,5,5,5,5,5,41
+Rupture,5,5,5,5,5,5,-18
+Searing Blow,5,5,5,5,5,5,-78
+Second Wind,5,5,5,5,5,5,58
+Seeing Red,5,5,5,5,5,5,51
+Sentinel,5,5,5,5,5,5,38
+Sever Soul,5,5,5,5,5,5,5
+Shockwave,5,5,5,5,5,5,199
+Spot Weakness,5,5,5,5,5,5,144
+Uppercut,5,5,5,5,5,5,149
+Whirlwind,5,5,5,5,5,5,173
+Barricade,5,5,5,5,5,5,126
+Bludgeon,5,5,5,5,5,5,54
+Berserk,5,5,5,5,5,5,-38
+Brutality,5,5,5,5,5,5,24
+Dark Embrace,5,5,5,5,5,5,54
+Demon Form,5,5,5,5,5,5,198
+Double Tap,5,5,5,5,5,5,93
+Exhume,5,5,5,5,5,5,67
+Feed,5,5,5,5,5,5,135
+Fiend Fire,5,5,5,5,5,5,82
+Immolate,5,5,5,5,5,5,111
+Impervious,5,5,5,5,5,5,167
+Juggernaut,5,5,5,5,5,5,44
+Limit Break,5,5,5,5,5,5,153
+Offering,5,5,5,5,5,5,195
+Reaper,5,5,5,5,5,5,167
+Strike_B,3,2,1,0,0,0,0
+Defend_B,3,2,1,0,0,0,0
+Cold Snap,5,5,5,5,5,5,107
+Charge Battery,5,5,5,5,5,5,95
+Coolheaded,5,5,5,5,5,5,94
+Go For The Eyes,5,5,5,5,5,5,90
+Hologram,5,5,5,5,5,5,89
+Ball Lightning,5,5,5,5,5,5,85
+Leap,5,5,5,5,5,5,63
+Compile Driver,5,5,5,5,5,5,55
+Barrage,5,5,5,5,5,5,53
+Stack,5,5,5,5,5,5,42
+Steam Barrier,5,5,5,5,5,5,22
+TURBO,5,5,5,5,5,5,5
+Recursion,5,5,5,5,5,5,2
+Sweeping Beam,5,5,5,5,5,5,-8
+Beam Cell,5,5,5,5,5,5,-14
+Rebound,5,5,5,5,5,5,-14
+Streamline,5,5,5,5,5,5,-16
+Claw,5,5,5,5,5,5,-37
+Glacier,5,5,5,5,5,5,263
+Defragment,5,5,5,5,5,5,253
+Chill,5,5,5,5,5,5,154
+Capacitor,5,5,5,5,5,5,149
+FTL,5,5,5,5,5,5,142
+BootSequence,5,5,5,5,5,5,136
+Consume,5,5,5,5,5,5,129
+White Noise,5,5,5,5,5,5,120
+Loop,5,5,5,5,5,5,119
+Reinforced Body,5,5,5,5,5,5,119
+Sunder,5,5,5,5,5,5,119
+Self Repair,5,5,5,5,5,5,111
+Equilibrium,5,5,5,5,5,5,97
+Auto-Shields,5,5,5,5,5,5,89
+Skim,5,5,5,5,5,5,67
+Blizzard,5,5,5,5,5,5,48
+Force Field,5,5,5,5,5,5,48
+Genetic Algorithm,5,5,5,5,5,5,43
+Overclock,5,5,5,5,5,5,37
+Recycle,5,5,5,5,5,5,31
+Tempest,5,5,5,5,5,5,26
+Aggregate,5,5,5,5,5,5,25
+Double Energy,5,5,5,5,5,5,24
+Storm,5,5,5,5,5,5,16
+Heatsinks,5,5,5,5,5,5,15
+Darkness,5,5,5,5,5,5,8
+Reprogram,5,5,5,5,5,5,1
+Fusion,5,5,5,5,5,5,0
+Doom And Gloom,5,5,5,5,5,5,-1
+Hello World,5,5,5,5,5,5,-5
+Chaos,5,5,5,5,5,5,-6
+Rip and Tear,5,5,5,5,5,5,-22
+Scrape,5,5,5,5,5,5,-30
+Melter,5,5,5,5,5,5,-35
+Static Discharge,5,5,5,5,5,5,-35
+Bullseye,5,5,5,5,5,5,-92
+Echo Form,5,5,5,5,5,5,243
+Electrodynamics,5,5,5,5,5,5,218
+Seek,5,5,5,5,5,5,167
+Biased Cognition,5,5,5,5,5,5,160
+Buffer,5,5,5,5,5,5,150
+Core Surge,5,5,5,5,5,5,137
+Creative AI,5,5,5,5,5,5,128
+All For One,5,5,5,5,5,5,104
+Machine Learning,5,5,5,5,5,5,84
+Reboot,5,5,5,5,5,5,71
+Fission,5,5,5,5,5,5,47
+Meteor Strike,5,5,5,5,5,5,35
+Amplify,5,5,5,5,5,5,29
+Rainbow,5,5,5,5,5,5,27
+Thunder Strike,5,5,5,5,5,5,15
+Multi-Cast,5,5,5,5,5,5,5
+Hyperbeam,5,5,5,5,5,5,-43
+Strike_G,3,2,1,0,0,0,0
+Defend_G,3,2,1,0,0,0,0
+Cloak And Dagger,5,5,5,5,5,5,122
+Backflip,5,5,5,5,5,5,120
+Piercing Wail,5,5,5,5,5,5,88
+Acrobatics,5,5,5,5,5,5,65
+Dodge and Roll,5,5,5,5,5,5,59
+Deflect,5,5,5,5,5,5,49
+Dagger Spray,5,5,5,5,5,5,40
+Dagger Throw,5,5,5,5,5,5,33
+Deadly Poison,5,5,5,5,5,5,26
+Sucker Punch,5,5,5,5,5,5,24
+Prepared,5,5,5,5,5,5,17
+Quick Slash,5,5,5,5,5,5,15
+Blade Dance,5,5,5,5,5,5,4
+Outmaneuver,5,5,5,5,5,5,3
+Poisoned Stab,5,5,5,5,5,5,-5
+Sneaky Strike,5,5,5,5,5,5,-13
+Bane,5,5,5,5,5,5,-19
+Slice,5,5,5,5,5,5,-22
+Flying Knee,5,5,5,5,5,5,-32
+Footwork,5,5,5,5,5,5,239
+Leg Sweep,5,5,5,5,5,5,216
+Noxious Fumes,5,5,5,5,5,5,202
+Well-Laid Plans,5,5,5,5,5,5,198
+Backstab,5,5,5,5,5,5,168
+Dash,5,5,5,5,5,5,165
+Blur,5,5,5,5,5,5,161
+Crippling Cloud,5,5,5,5,5,5,147
+Infinite Blades,5,5,5,5,5,5,126
+Escape Plan,5,5,5,5,5,5,116
+Predator,5,5,5,5,5,5,112
+Catalyst,5,5,5,5,5,5,103
+Terror,5,5,5,5,5,5,102
+Bouncing Flask,5,5,5,5,5,5,100
+Flechettes,5,5,5,5,5,5,85
+Caltrops,5,5,5,5,5,5,84
+Concentrate,5,5,5,5,5,5,63
+Expertise,5,5,5,5,5,5,59
+Endless Agony,5,5,5,5,5,5,58
+Calculated Gamble,5,5,5,5,5,5,56
+Skewer,5,5,5,5,5,5,53
+Tactician,5,5,5,5,5,5,44
+Distraction,5,5,5,5,5,5,43
+Finisher,5,5,5,5,5,5,33
+Reflex,5,5,5,5,5,5,30
+Accuracy,5,5,5,5,5,5,22
+Heel Hook,5,5,5,5,5,5,20
+Choke,5,5,5,5,5,5,17
+Eviscerate,5,5,5,5,5,5,13
+Riddle With Holes,5,5,5,5,5,5,4
+Setup,5,5,5,5,5,5,1
+All Out Attack,5,5,5,5,5,5,-17
+Masterful Stab,5,5,5,5,5,5,-74
+After Image,5,5,5,5,5,5,259
+Adrenaline,5,5,5,5,5,5,250
+Malaise,5,5,5,5,5,5,210
+Corpse Explosion,5,5,5,5,5,5,160
+A Thousand Cuts,5,5,5,5,5,5,154
+Burst,5,5,5,5,5,5,132
+Glass Knife,5,5,5,5,5,5,125
+Tools Of The Trade,5,5,5,5,5,5,106
+Envenom,5,5,5,5,5,5,104
+Die Die Die,5,5,5,5,5,5,100
+Doppelganger,5,5,5,5,5,5,74
+Alchemize,5,5,5,5,5,5,67
+Nightmare,5,5,5,5,5,5,66
+Bullet Time,5,5,5,5,5,5,44
+Phantasmal Killer,5,5,5,5,5,5,34
+Storm Of Steel,5,5,5,5,5,5,10
+Unload,5,5,5,5,5,5,-27
+Grand Finale,5,5,5,5,5,5,-41
+Wraith Form,5,5,5,5,5,5,300
+Decay,-5,-5,-5,-5,-5,-5,-100
+Shame,-5,-5,-5,-5,-5,-5,-100
+Regret,-5,-5,-5,-5,-5,-5,-100
+AscendersBane,-5,-5,-5,-5,-5,-5,-100
+Writhe,-5,-5,-5,-5,-5,-5,-100
+Parasite,-5,-5,-5,-5,-5,-5,-100
+Pain,-5,-5,-5,-5,-5,-5,-100
+Normality,-5,-5,-5,-5,-5,-5,-100
+Necronomicurse,-5,-5,-5,-5,-5,-5,-100
+Injury,-5,-5,-5,-5,-5,-5,-100
+Doubt,-5,-5,-5,-5,-5,-5,-100
+Clumsy,-5,-5,-5,-5,-5,-5,-100
+Dark Shackles,5,5,5,5,5,5,108
+Flash Of Steel,5,5,5,5,5,5,108
+Finesse,5,5,5,5,5,5,107
+Discovery,5,5,5,5,5,5,81
+Blind,5,5,5,5,5,5,79
+Panacea,5,5,5,5,5,5,57
+Impatience,5,5,5,5,5,5,56
+Bandage Up,5,5,5,5,5,5,47
+Mind Blast,5,5,5,5,5,5,32
+Jack Of All Trades,5,5,5,5,5,5,31
+Enlightenment,5,5,5,5,5,5,25
+Deep Breath,5,5,5,5,5,5,25
+Purity,5,5,5,5,5,5,24
+Panic Button,5,5,5,5,5,5,16
+Dramatic Entrance,5,5,5,5,5,5,14
+Swift Strike,5,5,5,5,5,5,3
+Good Instincts,5,5,5,5,5,5,0
+Madness,5,5,5,5,5,5,0
+Trip,5,5,5,5,5,5,-1
+Forethought,5,5,5,5,5,5,-26
+Hand Of Greed,5,5,5,5,5,5,-35
+Master Of Strategy,5,5,5,5,5,5,202
+Apotheosis,5,5,5,5,5,5,188
+Secret Technique,5,5,5,5,5,5,135
+Thinking Ahead,5,5,5,5,5,5,126
+Panache,5,5,5,5,5,5,111
+Mayhem,5,5,5,5,5,5,96
+Magnetism,5,5,5,5,5,5,20
+Violence,5,5,5,5,5,5,0
+Sadistic Nature,5,5,5,5,5,5,0
+Secret Weapon,5,5,5,5,5,5,0
+Transmutation,5,5,5,5,5,5,0
+The Bomb,5,5,5,5,5,5,0
+Metamorphosis,5,5,5,5,5,5,0
+Chrysalis,5,5,5,5,5,5,0
+Bash,5,5,5,5,5,5,0
+Neutralize,5,5,5,5,5,5,0
+Survivor,5,5,5,5,5,5,0
+Dualcast,5,5,5,5,5,5,0
+Zap,5,5,5,5,5,5,0

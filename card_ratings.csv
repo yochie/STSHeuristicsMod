@@ -1,6 +1,6 @@
 card_name,D1,Dx,DS,M1,Mx,MS,CM,$
 Strike_R,3,2,1,0,0,0,0,0
-Defend_R,3,2,1,0,0,0,0,0
+Defend_R,0,0,0,3,2,1,0,0
 Anger,7,4,2,0,0,1,0,43
 Armaments,3,4,5,5,5,6,6,58
 Body Slam,3,1,5,0,0,0,0,46
@@ -9,7 +9,7 @@ Cleave,3,7,0,0,0,0,0,-28
 Clothesline,7,2,0,5,2,0,0,58
 Dual Wield,4,1,4,2,1,2,3,46
 Flex,4,5,6,0,0,0,0,-26
-Ghostly Armor,0,0,0,8,3,0,0,126
+Ghostly,0,0,0,8,3,0,0,126
 Havoc,5,5,5,5,5,5,0,47
 Headbutt,5,5,5,2,2,2,5,47
 Heavy Blade,5,5,5,0,0,0,0,46
@@ -53,9 +53,9 @@ Second Wind,0,0,0,6,3,8,5,58
 Seeing Red,5,5,5,5,5,5,5,51
 Sentinel,0,0,0,3,1,0,2,38
 Sever Soul,5,2,0,1,1,3,3,5
-Shockwave,5,5,5,5,5,5,0,199
-Spot Weakness,5,5,5,0,0,0,0,144
-Uppercut,5,2,3,5,2,2,0,149
+Shockwave,4,8,5,4,8,5,0,199
+Spot Weakness,5,5,8,0,0,0,0,144
+Uppercut,6,2,4,5,2,2,0,149
 Whirlwind,3,8,6,0,0,0,0,173
 Barricade,0,0,0,2,2,10,0,126
 Bludgeon,10,3,2,0,0,0,0,54
@@ -74,13 +74,13 @@ Limit Break,5,5,5,0,0,0,0,153
 Offering,5,5,5,5,5,5,10,195
 Reaper,5,5,5,5,5,5,0,167
 Strike_B,3,2,1,0,0,0,0,0
-Defend_B,3,2,1,0,0,0,0,0
+Defend_B,0,0,0,3,2,1,0,0
 Cold Snap,5,5,5,5,5,5,0,107
 Charge Battery,5,5,5,5,5,5,0,95
 Coolheaded,5,5,5,5,5,5,0,94
 Go for the Eyes,5,5,5,5,5,5,0,90
 Hologram,5,5,5,5,5,5,0,89
-Ball Lightning,5,5,5,5,5,5,0,85
+Ball Lightning,7,2,7,0,0,0,0,85
 Leap,5,5,5,5,5,5,0,63
 Compile Driver,5,5,5,5,5,5,0,55
 Barrage,5,5,5,5,5,5,0,53
@@ -147,78 +147,79 @@ Thunder Strike,5,5,5,5,5,5,0,15
 Multi-Cast,5,5,5,5,5,5,0,5
 Hyperbeam,5,5,5,5,5,5,0,-43
 Strike_G,3,2,1,0,0,0,0,0
-Defend_G,3,2,1,0,0,0,0,0
-Cloak And Dagger,5,5,5,5,5,5,0,122
-Backflip,5,5,5,5,5,5,0,120
-Piercing Wail,5,5,5,5,5,5,0,88
-Acrobatics,5,5,5,5,5,5,0,65
-Dodge and Roll,5,5,5,5,5,5,0,59
-Deflect,5,5,5,5,5,5,0,49
-Dagger Spray,5,5,5,5,5,5,0,40
-Dagger Throw,5,5,5,5,5,5,0,33
-Deadly Poison,5,5,5,5,5,5,0,26
-Sucker Punch,5,5,5,5,5,5,0,24
-Prepared,5,5,5,5,5,5,0,17
-Quick Slash,5,5,5,5,5,5,0,15
-Blade Dance,5,5,5,5,5,5,0,4
-Outmaneuver,5,5,5,5,5,5,0,3
-Poisoned Stab,5,5,5,5,5,5,0,-5
-Sneaky Strike,5,5,5,5,5,5,0,-13
-Bane,5,5,5,5,5,5,0,-19
-Slice,5,5,5,5,5,5,0,-22
-Flying Knee,5,5,5,5,5,5,0,-32
-Footwork,5,5,5,5,5,5,0,239
-Leg Sweep,5,5,5,5,5,5,0,216
-Noxious Fumes,5,5,5,5,5,5,0,202
-Well-Laid Plans,5,5,5,5,5,5,0,198
-Backstab,5,5,5,5,5,5,0,168
-Dash,5,5,5,5,5,5,0,165
-Blur,5,5,5,5,5,5,0,161
-Crippling Cloud,5,5,5,5,5,5,0,147
-Infinite Blades,5,5,5,5,5,5,0,126
-Escape Plan,5,5,5,5,5,5,0,116
-Predator,5,5,5,5,5,5,0,112
-Catalyst,5,5,5,5,5,5,0,103
-Terror,5,5,5,5,5,5,0,102
-Bouncing Flask,5,5,5,5,5,5,0,100
-Flechettes,5,5,5,5,5,5,0,85
-Caltrops,5,5,5,5,5,5,0,84
-Concentrate,5,5,5,5,5,5,0,63
-Expertise,5,5,5,5,5,5,0,59
-Endless Agony,5,5,5,5,5,5,0,58
-Calculated Gamble,5,5,5,5,5,5,0,56
-Skewer,5,5,5,5,5,5,0,53
-Tactician,5,5,5,5,5,5,0,44
-Distraction,5,5,5,5,5,5,0,43
-Finisher,5,5,5,5,5,5,0,33
-Reflex,5,5,5,5,5,5,0,30
-Accuracy,5,5,5,5,5,5,0,22
-Heel Hook,5,5,5,5,5,5,0,20
-Choke,5,5,5,5,5,5,0,17
-Eviscerate,5,5,5,5,5,5,0,13
-Riddle With Holes,5,5,5,5,5,5,0,4
-Setup,5,5,5,5,5,5,0,1
-All Out Attack,5,5,5,5,5,5,0,-17
-Masterful Stab,5,5,5,5,5,5,0,-74
-After Image,5,5,5,5,5,5,0,259
-Adrenaline,5,5,5,5,5,5,0,250
-Malaise,5,5,5,5,5,5,0,210
-Corpse Explosion,5,5,5,5,5,5,0,160
-A Thousand Cuts,5,5,5,5,5,5,0,154
-Burst,5,5,5,5,5,5,0,132
-Glass Knife,5,5,5,5,5,5,0,125
-Tools of the Trade,5,5,5,5,5,5,0,106
-Envenom,5,5,5,5,5,5,0,104
-Die Die Die,5,5,5,5,5,5,0,100
-Doppelganger,5,5,5,5,5,5,0,74
-Alchemize,5,5,5,5,5,5,0,67
-Nightmare,5,5,5,5,5,5,0,66
-Bullet Time,5,5,5,5,5,5,0,44
-Phantasmal Killer,5,5,5,5,5,5,0,34
-Storm of Steel,5,5,5,5,5,5,0,10
-Unload,5,5,5,5,5,5,0,-27
-Grand Finale,5,5,5,5,5,5,0,-41
-Wraith Form,5,5,5,5,5,5,0,300
+Defend_G,0,0,0,3,2,1,0,0
+Cloak And Dagger,5,1,2,5,2,1,0,122
+Backflip,2,2,2,4,1,1,7,120
+Piercing Wail,0,0,0,8,10,0,0,88
+PiercingWail,0,0,0,8,10,0,0,88
+Acrobatics,0,0,0,0,0,0,7,65
+Dodge and Roll,0,0,0,3,2,5,0,59
+Deflect,0,0,0,5,0,0,0,49
+Dagger Spray,4,8,1,0,0,0,0,40
+Dagger Throw,5,2,0,0,0,0,5,33
+Deadly Poison,4,1,7,0,0,0,0,26
+Sucker Punch,5,1,0,3,1,1,0,24
+Prepared,0,0,0,0,0,0,5,17
+Quick Slash,5,1,0,0,0,0,3,15
+Blade Dance,5,1,0,0,0,0,0,4
+Outmaneuver,0,0,0,0,0,0,3,3
+Poisoned Stab,7,2,2,0,0,0,0,-5
+Sneaky Strike,6,2,0,0,0,0,2,-13
+Bane,6,2,0,0,0,0,0,-19
+Slice,4,1,0,0,0,0,0,-22
+Flying Knee,5,1,0,0,0,0,3,-32
+Footwork,0,0,0,2,1,10,0,239
+Leg Sweep,0,0,0,8,2,4,0,216
+Noxious Fumes,2,6,10,0,0,0,0,202
+Well Laid Plans,0,0,0,0,0,0,10,198
+Backstab,10,3,0,0,0,0,0,168
+Dash,5,2,1,5,1,0,0,165
+Blur,0,0,0,3,1,5,0,161
+Crippling Poison,4,6,4,4,7,5,0,147
+Infinite Blades,0,0,5,0,0,0,1,126
+Escape Plan,0,0,0,3,1,1,5,116
+Predator,6,2,0,0,0,0,6,112
+Catalyst,2,0,10,0,0,0,0,103
+Terror,2,1,5,0,0,0,0,102
+Bouncing Flask,4,2,6,0,0,0,0,100
+Flechettes,4,1,5,0,0,0,0,85
+Caltrops,0,0,6,0,0,0,0,84
+Concentrate,0,0,0,0,0,0,5,63
+Expertise,0,0,0,0,0,0,6,59
+Endless Agony,5,2,1,0,0,0,1,58
+Calculated Gamble,0,0,0,0,0,0,8,56
+Skewer,6,2,5,0,0,0,2,53
+Tactician,0,0,0,0,0,0,5,44
+Distraction,1,1,1,5,5,5,1,43
+Finisher,6,2,6,0,0,0,0,33
+Reflex,0,0,0,0,0,0,5,30
+Accuracy,3,1,5,0,0,0,0,22
+Heel Hook,5,1,0,0,0,0,3,20
+Choke,5,1,4,0,0,0,0,17
+Eviscerate,2,1,5,0,0,0,0,13
+Riddle With Holes,5,1,3,0,0,0,0,4
+Setup,0,0,0,0,0,0,6,1
+All Out Attack,5,9,0,0,0,0,1,-17
+Masterful Stab,6,2,0,0,0,0,0,-74
+After Image,0,0,0,2,1,9,0,259
+Adrenaline,0,0,0,0,0,0,10,250
+Malaise,0,0,0,5,2,5,2,210
+Corpse Explosion,3,10,6,0,0,0,0,160
+A Thousand Cuts,3,8,5,0,0,0,0,154
+Burst,0,0,5,0,0,5,1,132
+Glass Knife,10,2,0,0,0,0,0,125
+Tools of the Trade,0,0,0,0,0,0,5,106
+Envenom,2,2,10,0,0,0,0,104
+Die Die Die,5,10,0,0,0,0,1,100
+Doppelganger,0,0,0,0,0,0,4,74
+Alchemize,2,2,2,2,2,2,2,67
+Night Terror,0,0,10,0,0,10,4,66
+Bullet Time,0,0,5,0,0,5,10,44
+Phantasmal Killer,0,0,8,0,0,0,0,34
+Storm of Steel,5,1,5,0,0,0,3,10
+Unload,6,2,0,0,0,0,1,-27
+Grand Finale,0,0,10,0,0,0,0,-41
+Wraith Form,0,0,0,10,10,4,0,300
 Decay,-5,-5,-5,-5,-5,-5,0,-100
 Shame,-5,-5,-5,-5,-5,-5,0,-100
 Regret,-5,-5,-5,-5,-5,-5,0,-100
@@ -231,43 +232,44 @@ Necronomicurse,-5,-5,-5,-5,-5,-5,0,-100
 Injury,-5,-5,-5,-5,-5,-5,0,-100
 Doubt,-5,-5,-5,-5,-5,-5,0,-100
 Clumsy,-5,-5,-5,-5,-5,-5,0,-100
-Dark Shackles,5,5,5,5,5,5,0,108
-Flash Of Steel,5,5,5,5,5,5,0,108
-Finesse,5,5,5,5,5,5,0,107
-Discovery,5,5,5,5,5,5,0,81
-Blind,5,5,5,5,5,5,0,79
-Panacea,5,5,5,5,5,5,0,57
-Impatience,5,5,5,5,5,5,0,56
-Bandage Up,5,5,5,5,5,5,0,47
-Mind Blast,5,5,5,5,5,5,0,32
-Jack Of All Trades,5,5,5,5,5,5,0,31
-Enlightenment,5,5,5,5,5,5,0,25
-Deep Breath,5,5,5,5,5,5,0,25
-Purity,5,5,5,5,5,5,0,24
-Panic Button,5,5,5,5,5,5,0,16
-Dramatic Entrance,5,5,5,5,5,5,0,14
-Swift Strike,5,5,5,5,5,5,0,3
-Good Instincts,5,5,5,5,5,5,0,0
-Madness,5,5,5,5,5,5,0,0
-Trip,5,5,5,5,5,5,0,-1
-Forethought,5,5,5,5,5,5,0,-26
-Hand Of Greed,5,5,5,5,5,5,0,-35
-Master Of Strategy,5,5,5,5,5,5,0,202
-Apotheosis,5,5,5,5,5,5,0,188
-Secret Technique,5,5,5,5,5,5,0,135
-Thinking Ahead,5,5,5,5,5,5,0,126
-Panache,5,5,5,5,5,5,0,111
-Mayhem,5,5,5,5,5,5,0,96
-Magnetism,5,5,5,5,5,5,0,20
-Violence,5,5,5,5,5,5,0,0
-Sadistic Nature,5,5,5,5,5,5,0,0
-Secret Weapon,5,5,5,5,5,5,0,0
-Transmutation,5,5,5,5,5,5,0,0
-The Bomb,5,5,5,5,5,5,0,0
-Metamorphosis,5,5,5,5,5,5,0,0
-Chrysalis,5,5,5,5,5,5,0,0
-Bash,5,5,5,5,5,5,0,0
-Neutralize,5,5,5,5,5,5,0,0
-Survivor,5,5,5,5,5,5,0,0
-Dualcast,5,5,5,5,5,5,0,0
-Zap,5,5,5,5,5,5,0,0
+Dark Shackles,0,0,0,10,0,0,0,108
+Flash of Steel,5,1,0,0,0,0,5,108
+Finesse,0,0,0,2,1,0,5,107
+Discovery,0,0,0,0,0,0,6,81
+Blind,0,0,0,5,3,2,0,79
+Panacea,3,3,3,3,3,3,2,57
+Impatience,0,0,0,0,0,0,6,56
+Bandage Up,0,0,0,3,1,0,0,47
+Mind Blast,7,2,0,0,0,0,0,32
+Jack Of All Trades,0,0,0,0,0,0,6,31
+Enlightenment,0,0,0,0,0,0,8,25
+Deep Breath,0,0,0,0,0,0,3,25
+Purity,0,0,0,0,0,2,5,24
+Panic Button,0,0,0,10,5,0,0,16
+Dramatic Entrance,3,6,0,0,0,0,0,14
+Swift Strike,4,2,0,0,0,0,0,3
+Good Instincts,0,0,0,4,2,0,0,0
+Madness,0,0,0,0,0,0,4,0
+Trip,3,3,3,0,0,0,0,-1
+Forethought,0,0,0,0,0,0,3,-26
+Hand Of Greed,6,2,0,0,0,0,3,-35
+Master Of Strategy,0,0,0,0,0,0,10,202
+Apotheosis,4,4,4,4,4,4,4,188
+Secret Technique,0,0,0,0,0,0,10,135
+Thinking Ahead,0,0,0,0,0,0,10,126
+Panache,0,0,6,0,0,0,0,111
+Mayhem,5,5,5,5,5,5,5,96
+Magnetism,0,0,0,0,0,0,5,20
+Violence,5,5,5,0,0,0,5,0
+Sadistic Nature,2,3,5,0,0,0,0,0
+Secret Weapon,0,0,0,0,0,0,10,0
+Transmutation,0,0,0,0,0,0,5,0
+The Bomb,0,0,10,0,0,0,0,0
+Metamorphosis,5,5,5,0,0,0,5,0
+Chrysalis,0,0,0,5,5,5,5,0
+Bash,6,2,4,0,0,0,0,0
+Neutralize,3,1,0,5,2,3,0,0
+Survivor,0,0,0,5,5,5,0,0
+Dualcast,6,2,1,0,0,0,0,0
+Zap,2,1,6,0,0,0,0,0
+RituaDagger,8,2,0,0,0,0,0,0

@@ -10,7 +10,7 @@ Clothesline,7,2,0,5,2,0,0,58
 Dual Wield,4,1,4,2,1,2,3,46
 Flex,4,5,6,0,0,0,0,-26
 Ghostly,0,0,0,8,3,0,0,126
-Havoc,5,5,5,5,5,5,0,47
+Havoc,0,0,0,0,0,2,6,47
 Headbutt,5,5,5,2,2,2,5,47
 Heavy Blade,5,5,5,0,0,0,0,46
 Iron Wave,4,4,4,4,4,4,0,38
@@ -50,7 +50,7 @@ Reckless Charge,7,2,0,0,0,0,0,41
 Rupture,1,1,4,0,0,0,0,-18
 Searing Blow,10,3,3,0,0,0,0,-78
 Second Wind,0,0,0,6,3,8,5,58
-Seeing Red,5,5,5,5,5,5,5,51
+Seeing Red,0,0,0,0,0,0,5,51
 Sentinel,0,0,0,3,1,0,2,38
 Sever Soul,5,2,0,1,1,3,3,5
 Shockwave,4,8,5,4,8,5,0,199
@@ -75,80 +75,81 @@ Offering,5,5,5,5,5,5,10,195
 Reaper,5,5,5,5,5,5,0,167
 Strike_B,3,2,1,0,0,0,0,0
 Defend_B,0,0,0,3,2,1,0,0
-Cold Snap,5,5,5,5,5,5,0,107
-Charge Battery,5,5,5,5,5,5,0,95
-Coolheaded,5,5,5,5,5,5,0,94
-Go for the Eyes,5,5,5,5,5,5,0,90
-Hologram,5,5,5,5,5,5,0,89
+Cold Snap,5,1,0,2,1,7,0,107
+Charge Battery,0,0,0,7,2,0,7,95
+Coolheaded,0,0,0,2,1,6,10,94
+Go for the Eyes,2,1,0,6,5,2,2,90
+Hologram,0,0,0,3,1,0,10,89
 Ball Lightning,7,2,7,0,0,0,0,85
-Leap,5,5,5,5,5,5,0,63
-Compile Driver,5,5,5,5,5,5,0,55
-Barrage,5,5,5,5,5,5,0,53
-Stack,5,5,5,5,5,5,0,42
-Steam Barrier,5,5,5,5,5,5,0,22
-TURBO,5,5,5,5,5,5,0,5
-Recursion,5,5,5,5,5,5,0,2
-Sweeping Beam,5,5,5,5,5,5,0,-8
-Beam Cell,5,5,5,5,5,5,0,-14
-Rebound,5,5,5,5,5,5,0,-14
-Streamline,5,5,5,5,5,5,0,-16
-Claw,5,5,5,5,5,5,0,-37
-Glacier,5,5,5,5,5,5,0,263
-Defragment,5,5,5,5,5,5,0,253
-Chill,5,5,5,5,5,5,0,154
-Capacitor,5,5,5,5,5,5,0,149
-FTL,5,5,5,5,5,5,0,142
-BootSequence,5,5,5,5,5,5,0,136
+Leap,0,0,0,8,3,0,0,63
+Compile Driver,4,1,0,0,0,0,8,55
+Barrage,6,2,8,0,0,0,0,53
+Stack,0,0,0,5,2,0,0,42
+Steam Barrier,0,0,0,4,1,0,0,22
+TURBO,0,0,0,0,0,0,8,5
+Recursion,3,3,3,3,3,3,0,2
+Sweeping Beam,3,6,0,0,0,0,0,-8
+Beam Cell,5,1,3,0,0,0,0,-14
+Rebound,6,2,0,0,0,0,7,-14
+Streamline,6,2,5,0,0,0,0,-16
+Claw,4,1,8,0,0,0,0,-37
+Glacier,0,0,0,8,4,6,0,263
+Defragment,6,6,6,6,6,6,0,253
+Chill,0,0,0,8,8,4,0,154
+Capacitor,0,0,5,0,0,5,0,149
+FTL,4,2,0,0,0,0,6,142
+BootSequence,0,0,0,10,3,0,0,136
 Consume,5,5,5,5,5,5,0,129
-White Noise,5,5,5,5,5,5,0,120
-Loop,5,5,5,5,5,5,0,119
-Reinforced Body,5,5,5,5,5,5,0,119
-Sunder,5,5,5,5,5,5,0,119
-Self Repair,5,5,5,5,5,5,0,111
-Equilibrium,5,5,5,5,5,5,0,97
-Auto-Shields,5,5,5,5,5,5,0,89
-Skim,5,5,5,5,5,5,0,67
-Blizzard,5,5,5,5,5,5,0,48
-Force Field,5,5,5,5,5,5,0,48
-Genetic Algorithm,5,5,5,5,5,5,0,43
-Overclock,5,5,5,5,5,5,0,37
-Recycle,5,5,5,5,5,5,0,31
-Tempest,5,5,5,5,5,5,0,26
-Aggregate,5,5,5,5,5,5,0,25
-Double Energy,5,5,5,5,5,5,0,24
-Storm,5,5,5,5,5,5,0,16
-Heatsinks,5,5,5,5,5,5,0,15
-Darkness,5,5,5,5,5,5,0,8
-Reprogram,5,5,5,5,5,5,0,1
-Fusion,5,5,5,5,5,5,0,0
-Doom And Gloom,5,5,5,5,5,5,0,-1
-Hello World,5,5,5,5,5,5,0,-5
-Chaos,5,5,5,5,5,5,0,-6
-Rip and Tear,5,5,5,5,5,5,0,-22
-Scrape,5,5,5,5,5,5,0,-30
-Melter,5,5,5,5,5,5,0,-35
-Static Discharge,5,5,5,5,5,5,0,-35
-Bullseye,5,5,5,5,5,5,0,-92
-Echo Form,5,5,5,5,5,5,0,243
-Electrodynamics,5,5,5,5,5,5,0,218
-Seek,5,5,5,5,5,5,0,167
-Biased Cognition,5,5,5,5,5,5,0,160
-Buffer,5,5,5,5,5,5,0,150
-Core Surge,5,5,5,5,5,5,0,137
-Creative AI,5,5,5,5,5,5,0,128
-All For One,5,5,5,5,5,5,0,104
-Machine Learning,5,5,5,5,5,5,0,84
-Reboot,5,5,5,5,5,5,0,71
-Fission,5,5,5,5,5,5,0,47
-Meteor Strike,5,5,5,5,5,5,0,35
-Amplify,5,5,5,5,5,5,0,29
-Rainbow,5,5,5,5,5,5,0,27
-Thunder Strike,5,5,5,5,5,5,0,15
-Multi-Cast,5,5,5,5,5,5,0,5
-Hyperbeam,5,5,5,5,5,5,0,-43
+White Noise,5,5,5,5,5,5,5,120
+Loop,2,2,5,2,2,5,0,119
+Reinforced Body,0,0,0,6,3,6,3,119
+Sunder,8,10,0,0,0,0,0,119
+Self Repair,0,0,0,0,0,10,0,111
+Equilibrium,0,0,0,10,5,0,10,97
+Auto-Shields,0,0,0,8,3,0,0,89
+Skim,0,0,0,0,0,0,10,67
+Blizzard,3,7,10,0,0,0,0,48
+Force Field,0,0,0,4,1,7,0,48
+Genetic Algorithm,0,0,0,10,0,0,0,43
+Overclock,0,0,0,0,0,0,8,37
+Recycle,0,0,0,0,0,0,8,31
+Tempest,8,3,6,0,0,0,2,26
+Aggregate,0,0,0,0,0,0,5,25
+Double Energy,5,0,0,5,0,0,10,24
+Storm,0,0,5,0,0,0,0,16
+Heatsinks,0,0,3,0,0,3,10,15
+Darkness,0,1,10,0,0,0,0,8
+Reprogram,0,0,0,0,0,0,10,1
+Fusion,0,0,0,0,0,0,5,0
+Doom And Gloom,5,10,5,0,0,0,0,-1
+Hello World,0,0,0,0,0,0,8,-5
+Chaos,3,3,3,3,3,3,0,-6
+Rip and Tear,8,3,0,0,0,0,0,-22
+Scrape,6,2,0,0,0,0,5,-30
+Melter,6,2,0,0,0,0,0,-35
+Static Discharge,0,0,5,0,0,3,0,-35
+Bullseye,5,1,5,0,0,0,0,-92
+Echo Form,0,0,10,0,0,10,0,243
+Electrodynamics,5,10,7,5,5,5,0,218
+Seek,0,0,0,0,0,0,10,167
+Biased Cognition,10,5,0,10,5,0,0,160
+Buffer,0,0,0,10,2,0,0,150
+Core Surge,6,2,0,3,0,0,0,137
+Creative AI,0,0,10,0,0,10,5,128
+All For One,10,2,5,0,0,0,5,104
+Machine Learning,0,0,0,0,0,0,8,84
+Reboot,0,0,0,0,0,0,10,71
+Fission,5,2,0,5,2,0,5,47
+Meteor Strike,10,3,0,0,0,0,0,35
+Amplify,0,0,6,0,0,6,0,29
+Rainbow,5,5,5,3,3,3,0,27
+Thunder Strike,2,2,9,0,0,0,0,15
+Multi-Cast,4,4,4,4,4,4,0,5
+Hyperbeam,9,10,0,0,0,0,0,-43
 Strike_G,3,2,1,0,0,0,0,0
 Defend_G,0,0,0,3,2,1,0,0
 Cloak And Dagger,5,1,2,5,2,1,0,122
+Cloak and Dagger,5,1,2,5,2,1,0,122
 Backflip,2,2,2,4,1,1,7,120
 Piercing Wail,0,0,0,8,10,0,0,88
 PiercingWail,0,0,0,8,10,0,0,88
@@ -163,7 +164,7 @@ Prepared,0,0,0,0,0,0,5,17
 Quick Slash,5,1,0,0,0,0,3,15
 Blade Dance,5,1,0,0,0,0,0,4
 Outmaneuver,0,0,0,0,0,0,3,3
-Poisoned Stab,7,2,2,0,0,0,0,-5
+Poisoned Stab,7,7,2,0,0,0,0,-5
 Sneaky Strike,6,2,0,0,0,0,2,-13
 Bane,6,2,0,0,0,0,0,-19
 Slice,4,1,0,0,0,0,0,-22
@@ -200,6 +201,7 @@ Eviscerate,2,1,5,0,0,0,0,13
 Riddle With Holes,5,1,3,0,0,0,0,4
 Setup,0,0,0,0,0,0,6,1
 All Out Attack,5,9,0,0,0,0,1,-17
+All-Out Attack,5,9,0,0,0,0,1,-17
 Masterful Stab,6,2,0,0,0,0,0,-74
 After Image,0,0,0,2,1,9,0,259
 Adrenaline,0,0,0,0,0,0,10,250
@@ -214,6 +216,7 @@ Die Die Die,5,10,0,0,0,0,1,100
 Doppelganger,0,0,0,0,0,0,4,74
 Alchemize,2,2,2,2,2,2,2,67
 Night Terror,0,0,10,0,0,10,4,66
+Nightmare,0,0,10,0,0,10,4,66
 Bullet Time,0,0,5,0,0,5,10,44
 Phantasmal Killer,0,0,8,0,0,0,0,34
 Storm of Steel,5,1,5,0,0,0,3,10

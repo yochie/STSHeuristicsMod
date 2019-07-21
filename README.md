@@ -16,6 +16,7 @@ Fill in the ratings according to your liking (hopefully the defaults will get be
 * M1 (mitigation, single target) : Integer in range [0,10]
 * Mx (mitigation, area of effect) : Integer in range [0,10]
 * MS (mitigation, scaling) : Integer in range [0,10]
+* CM (card managment) : Integer in range [0,10]
 * $ (Scores from SpireLogs tier list) : Integer in range [~-300,~300]
 
 # Development
@@ -24,3 +25,8 @@ Support should be added for similar behaviour upon entering shops.
 
 # Credits
 Idea for the mod came from joinrbs tutorial for playing using heuristics.
+
+# TODO
+* Add column to CSV for specifying Class
+* Add second CSV with alternative names and reference to single rated name
+
